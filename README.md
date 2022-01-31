@@ -1,6 +1,4 @@
 # rpf
-rsync script to sync directories
-# rpf
 
 Simple rsync profiler
 
